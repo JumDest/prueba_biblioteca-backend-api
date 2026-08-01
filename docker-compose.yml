@@ -1,0 +1,11 @@
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: creangel_db
+    environment:
+      POSTGRES_DB: biblioteca_creangel
+      POSTGRES_USER: devuser
+      POSTGRES_PASSWORD: devpass
+    ports:
+      - "5432:5432"
