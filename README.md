@@ -13,7 +13,7 @@ El proyecto no posee URLs ni puertos quemados en el código. Toda la configuraci
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/biblioteca-backend-api.git](https://github.com/TU_USUARIO/biblioteca-backend-api.git)
+git clone https://github.com/TU_USUARIO/biblioteca-backend-api
 
 # 2. Entrar a la carpeta del proyecto
 cd biblioteca-backend-api
